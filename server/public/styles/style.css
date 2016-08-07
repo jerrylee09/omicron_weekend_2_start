@@ -1,0 +1,16 @@
+.red {
+	color:red;
+}
+.hide {
+	display: none;
+}
+.box {
+	background-color: white;
+    height: 1em;
+    width: 1em;
+    border: 2px solid black;
+    float:left;
+}
+.highlight {
+	background-color: red;
+} 
